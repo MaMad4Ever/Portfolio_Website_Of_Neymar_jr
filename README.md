@@ -26,7 +26,7 @@ You can explore this website.
 Clone the project
 
 ```bash
-  git clone https://github.com/adib-programmar/Fully_Annimated_and_Responsive_Portfolio_Website_Of_Neymar_jr.git
+  git clone https://github.com/MaMad4Ever/Portfolio_Website_Of_Neymar_jr.git
 ```
 
 Go to the project directory
@@ -44,5 +44,5 @@ Start the server
 ```
 
 
-## 🚀 About Me
-MaMad4Ever | 🧠 Turning ideas into reality with HTML, CSS, JavaScript, and Python.
+## 🚀 About
+Designed by [MaMad4Ever](https://github.com/MaMad4Ever) using only Bootstrap.
